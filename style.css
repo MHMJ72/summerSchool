@@ -1,0 +1,41 @@
+.para {
+    display: inline-block;
+    margin-left: 40px;
+    font-size: large;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  .icon {
+    display: inline-block;
+    color: chartreuse;
+    margin-left: 50px;
+    font-size: x-large;
+    font-weight: bold;
+  }
+  
+  img {
+    margin-top: 10px;
+    height: 400px;
+    width: 100%;
+  }
+
+  .heading {
+    font-family: "Secular One", sans-serif;
+    padding: 5px 20px 10px 20px;
+    color: #056969;
+    font-size: large;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+  }
+
+  .headLine {
+    display: block;
+  }
+
+  .container {
+    width: 100%;
+  }
+
+  span {
+    color: darkturquoise;
+  }
